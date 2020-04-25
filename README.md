@@ -8,7 +8,7 @@ $50 Steam gift card for the winner
 
 # Tech Specs
 
-UPDATE: I am trying out a new prototype for a LED Guitar instead of the mask. Lets see if yall can make some cool animations I can use for my set tomorrow!
+UPDATE: I am trying out a new prototype for a LED Guitar instead of the mask. Lets see if yall can make some cool animations I can use for my set!
 
 1) Download or clone this repo which has LED animation studio
 2) Create a 30 (height) x 22 (lenght) grid
