@@ -1,4 +1,4 @@
-# INSTAR earthxhack animation challenge
+# INSTAR Earthxhack Animation Challenge
 
 $50 Steam gift card for the winner
 
