@@ -6,3 +6,9 @@ $50 Steam gift card for the winner
 - Submissions due Sunday by 2pm
 - Voting starts Sunday at 3pm on the INSTAR ig (@instar_music)
 - We will have a separate livestream so participants can test their designs
+
+![Components Editor](/InStarNeonYC.jpg)
+
+
+# Live Sets
+![Components Editor](/GravityZero(1).png)
