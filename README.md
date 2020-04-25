@@ -20,8 +20,6 @@ I am still working on putting all the LEDs on, but here is a picture of the layo
 
 When you have a design ready to test, DM me and Ill get you started on exporting the file and I can send you a video of it running on the guitar.
 
-![Components Editor](/InStarNeonYC.jpg)
-
 
 # Live Sets
 ![Components Editor](/GravityZero.png)
