@@ -14,9 +14,9 @@ UPDATE: I am trying out a new prototype for a LED Guitar instead of the mask. Le
 2) Create a 30 (height) x 22 (lenght) grid
 3) Have fun making some cool animations!
 
-Here is a picture of the layout (keep in mind not all pixels in the grid will be visible)
+I am still working on putting all the LEDs on, but here is a picture of the layout (keep in mind not all pixels in the grid will be visible)
 
-[Coming soong]
+![Components Editor](/IMG_5948.jpg)
 
 When you have a design ready to test, DM me and Ill get you started on exporting the file and I can send you a video of it running on the guitar.
 
