@@ -11,4 +11,4 @@ $50 Steam gift card for the winner
 
 
 # Live Sets
-![Components Editor](/GravityZero(1).png)
+![Components Editor](/GravityZero.png)
