@@ -16,7 +16,7 @@ UPDATE: I am trying out a new prototype for a LED Guitar instead of the mask. Le
 
 I am still working on putting all the LEDs on, but here is a picture of the layout (keep in mind not all pixels in the grid will be visible)
 
-![Components Editor](/IMG_5948.jpg)
+![Components Editor](/IMG_5949.JPG)
 
 When you have a design ready to test, DM me and Ill get you started on exporting the file and I can send you a video of it running on the guitar.
 
