@@ -11,7 +11,7 @@ $50 Steam gift card for the winner
 UPDATE: I am trying out a new prototype for a LED Guitar instead of the mask. Lets see if yall can make some cool animations I can use for my set!
 
 1) Download or clone this repo which has LED animation studio
-2) Create a 30 (height) x 22 (lenght) grid
+2) Create a 19 (height) x 21 (length) grid
 3) Have fun making some cool animations!
 
 I am still working on putting all the LEDs on, but here is a picture of the layout (keep in mind not all pixels in the grid will be visible)
